@@ -1,0 +1,14 @@
+# open model: "dall-e-3", "dall-e-2"
+model = "dall-e-3"
+
+# size: 256x256, 512x512, 1024x1024, 1792x1024 (dalle3), 1024x1792 (dalle3)
+size = "1024x1024"
+
+# quality: hd or standard
+quality = "hd"
+
+# style: natural or vivid
+style = "vivid"
+
+# the prompt
+prompt = "A small group of robots break dancing and creating graffiti. All the robots are identical, but the dance styles are very different. The ones painting are using more than jsut their hands to paint."
